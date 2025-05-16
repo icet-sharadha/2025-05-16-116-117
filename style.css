@@ -7,13 +7,24 @@ p {
     color: white;
     background-color: #0939be;
     margin: 50px;
-
     font-family: "Exile", system-ui;
-
     text-decoration: underline;
-
     border: 20px solid black;
-
-
+    border-radius: 50px;
+    border-style: double;
     padding: 30px;
+}
+
+.box1 {
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+}
+
+.box2 {
+    background-color: cadetblue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 150px;
 }
