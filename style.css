@@ -40,3 +40,20 @@ h1:hover {
     color: white;
     text-align: center;
 }
+
+h1:active {
+    background-color: burlywood;
+    color: white;
+    text-align: right;
+}
+
+
+#txtInput:focus {
+    border: 5px solid blue;
+}
+
+
+h1::selection {
+    background-color: blueviolet;
+    color: white;
+}
