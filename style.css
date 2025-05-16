@@ -11,4 +11,9 @@ p {
     font-family: "Exile", system-ui;
 
     text-decoration: underline;
+
+    border: 20px solid black;
+
+
+    padding: 30px;
 }
