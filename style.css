@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Exile&display=swap');
+
+
+
+p {
+    text-align: center;
+    color: white;
+    background-color: #0939be;
+    margin: 50px;
+
+    font-family: "Exile", system-ui;
+
+    text-decoration: underline;
+}
