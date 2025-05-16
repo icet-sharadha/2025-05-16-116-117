@@ -25,6 +25,6 @@ p {
     background-color: cadetblue;
     width: 200px;
     height: 200px;
-    position: relative;
-    top: 150px;
+    position: sticky;
+    top: 10px;
 }
