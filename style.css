@@ -15,7 +15,7 @@ p {
     padding: 30px;
 }
 
-.box1 {
+/* .box1 {
     background-color: brown;
     width: 100px;
     height: 100px;
@@ -27,4 +27,16 @@ p {
     height: 200px;
     position: sticky;
     top: 10px;
+} */
+
+
+h1 {
+    background-color: #0939be;
+    color: white;
+}
+
+h1:hover {
+    background-color: brown;
+    color: white;
+    text-align: center;
 }
